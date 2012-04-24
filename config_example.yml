@@ -1,0 +1,4 @@
+api_key: "... Flickr API Key ..."
+secret:  "... Flickr Secret Key ..."
+user_id: "Flickr User ID"
+directory: "/Volumes/data/flickr_download"
