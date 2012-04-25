@@ -12,7 +12,11 @@ Finally, you provide a path to store all photos.
 
 This program requires at least Ruby 1.9 and uses the flickraw gem.
 
-Execute ```ruby app.rb```
+```git clone git@github.com:underwhelmed/Flickrish.git
+cd flickrish
+gem install bundler
+bundle
+ruby app.rb```
 
 ## NOTE:
 
