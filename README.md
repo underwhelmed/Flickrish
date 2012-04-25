@@ -10,6 +10,8 @@ Find the user_id of the Flickr account you're trying to access.  This can be don
 
 Finally, you provide a path to store all photos.
 
+In your profile, you have to allow access to the Original sized image to Everybody, otherwise, this won't be able to find it. 
+
 This program requires at least Ruby 1.9 and uses the flickraw gem.
 
 ```ruby
