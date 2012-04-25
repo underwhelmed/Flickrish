@@ -13,4 +13,4 @@ Finally, you provide a path to store all photos.
 
 ## NOTE:
 
-*This program is provided as-is. If you have any issues with it, please submit a pull request.*
+*This program is provided as-is. I wrote it quickly to download all my original sized files because my pro account was expiring. If you have any issues with it, please submit a pull request.*
