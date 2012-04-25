@@ -10,6 +10,9 @@ Find the user_id of the Flickr account you're trying to access.  This can be don
 
 Finally, you provide a path to store all photos.
 
+This program requires at least Ruby 1.9 and uses the flickraw gem.
+
+Execute ```ruby app.rb```
 
 ## NOTE:
 
