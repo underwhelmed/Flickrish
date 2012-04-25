@@ -1,5 +1,4 @@
-Flickrish
-=========
+<h1>Flickrish</h1>
 
 Flickrish is a small Ruby program that will iterate through all of a user's public photos and attempt to download the original sized photo.
 
@@ -12,7 +11,6 @@ Find the user_id of the Flickr account you're trying to access.  This can be don
 Finally, you provide a path to store all photos.
 
 
-NOTE:
------
+<h2>NOTE:</h2>
 
 This program is provided as-is. If you have any issues with it, please submit a pull request.
